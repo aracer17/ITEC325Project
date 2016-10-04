@@ -17,18 +17,18 @@ Individual students can see their own history, and an administrator can see each
 as well as a summary page listing everybody's summary.
 
 A student can request that a blurb is e-mailed to ANY prof, who clicks on a link, which is then
-  added to the database.
+added to the database.
 
 An administrator can tag self-reported items as "accepted", "rejected" (else "pending").
 
 Administrator can also enter other items (e.g. gpa-in-major, a helpfulness-rating, etc),
-  and a weighted-average is also there.
+and a weighted-average is also there.
 
 Perhaps also have a public-viewable page, showing selected tasks (by an admin) anonymously.
 
 Allow for a reflective piece, where students write short snippets about how the program
-  has helped them (or what would have worked better for them).
+has helped them (or what would have worked better for them).
 
-  Goal: make this better than a google-doc/survey would be!
+Goal: make this better than a google-doc/survey would be!
 
 Have a way to connect this to a LinkedIn account ?
