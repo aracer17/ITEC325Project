@@ -4,14 +4,10 @@ Drew Racer
 Kayger Duran-Mateo
 Dominique Ross
 
-This is a README file for an ITEC325 group project concerning the creation of a webpage in hopes of adpotion into the college of Computer Science and Technology (CSAT) as a common resource tool for students and teachers. This project is currently in the analysis and requirments phase of the SLDC. 
+This is a README file for an ITEC325 group project concerning the creation of a webpage named "Elites"in hopes of adpotion into the college of Computer Science and Technology (CSAT) as a common resource tool for students and teachers. This program will provide a away to push for an advancement in skills such as leadership and professionalism through participation and reflection of science, math, and IT students. One goal for this project is to allow for points or badges to be colleted and then used to recognize students durring the graduation ceremony by the Dean of CSAT. This project is currently in the analysis and requirments phase of the SLDC. 
 
 Below is a set of predefined requirements and brief description provided by ibarland(GitHub user tag):
-
-The "Elites" program is a way of encouraging leadership and professional activities 
-in science/math/technology students.  If a student in the program accrues enough points,
-they are recognized at graduation by the Dean of the College of Science and Technology.
-
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Task: Set up a site where students can self-report their qualifying 
 work in each of four different categories.  Compute a total score [sum of each category,
