@@ -32,3 +32,8 @@ has helped them (or what would have worked better for them).
 Goal: make this better than a google-doc/survey would be!
 
 Have a way to connect this to a LinkedIn account ?
+
+Technologies that will be used to implement this system:
+PHP - Back-End/Server Side
+MySql - Database
+Html/CSS/Javascript - Client Side/Front-End 
